@@ -1,0 +1,7 @@
+verilog work "music_ROM.v"
+verilog work "divide_by12.v"
+verilog work "vga640x480.v"
+verilog work "segdisplay.v"
+verilog work "music.v"
+verilog work "clockdiv.v"
+verilog work "top.v"

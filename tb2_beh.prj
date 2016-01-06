@@ -1,0 +1,6 @@
+verilog work "vga640x480.v"
+verilog work "segdisplay.v"
+verilog work "clockdiv.v"
+verilog work "top.v"
+verilog work "tb2.v"
+verilog work "C:/Xilinx/14.6/ISE_DS/ISE//verilog/src/glbl.v"
